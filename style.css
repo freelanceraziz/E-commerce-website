@@ -1,0 +1,50 @@
+.container{margin-bottom: 50px;}
+.nava{font-size: 25px;}
+.backgroundcarousel{background-color:#fceae8;
+                        border-radius:10px;
+            }
+.carousel-item{padding:20px 40px;}
+.carouselprize{color:#ff136f;
+                padding-bottom:5px;}
+.carouselbutton{
+                background-image:linear-gradient(to bottom,#FF589B 0%, #FF136F 100%);
+                color:white;
+               cursor: pointer;
+               padding: 5px 10px;
+                border-radius: 6px;
+                 }
+
+
+
+
+
+
+    .productdemo1{color:white;}  
+    .productimg1{width:100px;}
+    .productdemo1{background-color: rgb(220, 241, 28);
+                    border-radius: 10px;
+                        padding:14px 30px;}
+    .productdemo2{background-color: rgb(19, 226, 81);
+                     border-radius: 10px;
+                        padding:14px 30px;}
+    .productdemo3{background-color: rgb(34, 104, 235);
+                          border-radius: 10px;
+                         padding:14px 30px;}
+
+
+
+        .allshoesina{margin-top:90px;}
+        .card{border:none;
+            border-radius: 10px;
+                box-shadow: 10px 10px 40px #888;}
+
+ #contact{margin-top: 50px;
+        height:300px;}
+
+        #contact h6{color:gray;}
+        footer{text-align: center;}
+
+
+
+
+           
